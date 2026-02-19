@@ -22,6 +22,8 @@ Based on our experiments, the models performed as follows:
 | BERT-Base | 0.95 | 0.90 | 0.91 | 0.89 |
 | DistilBERT | 0.94 | 0.88 | 0.89 | 0.87 |
 
+![Performance Chart](results_chart.png)
+
 ## 💡 Key Findings
 1. **RoBERTa-Base** proved to be the most robust model, achieving the highest scores across all metrics.
 2. **BERT-Base** provided a very stable and reliable baseline.
